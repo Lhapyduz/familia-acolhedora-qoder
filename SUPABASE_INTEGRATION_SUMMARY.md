@@ -52,7 +52,8 @@ Updated the [AuthService](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Traba
 Created comprehensive documentation:
 - [SUPABASE_SETUP.md](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_SETUP.md): Detailed setup instructions
 - [SUPABASE_INTEGRATION_SUMMARY.md](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_INTEGRATION_SUMMARY.md): This summary document
-- SQL schema for creating required database tables
+- [SUPABASE_SCHEMA.sql](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_SCHEMA.sql): Complete database schema with all required tables
+- [SUPABASE_IMPLEMENTATION_GUIDE.md](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_IMPLEMENTATION_GUIDE.md): Step-by-step implementation guide
 
 ### 7. Testing
 
@@ -91,7 +92,10 @@ Created a test file [supabase.test.ts](file:///c:/Users/grego/OneDrive/%C3%81rea
 - [.env](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/.env): Environment configuration file
 - [SUPABASE_SETUP.md](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_SETUP.md): Setup instructions
 - [SUPABASE_INTEGRATION_SUMMARY.md](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_INTEGRATION_SUMMARY.md): This document
+- [SUPABASE_SCHEMA.sql](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_SCHEMA.sql): Complete database schema
+- [SUPABASE_IMPLEMENTATION_GUIDE.md](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/SUPABASE_IMPLEMENTATION_GUIDE.md): Implementation guide
 - [src/tests/supabase.test.ts](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/src/tests/supabase.test.ts): Integration test file
+- [src/tests/supabase-schema.test.ts](file:///c:/Users/grego/OneDrive/%C3%81rea%20de%20Trabalho/Familia%20Acolhedora/src/tests/supabase-schema.test.ts): Comprehensive schema test file
 
 ## Next Steps
 
